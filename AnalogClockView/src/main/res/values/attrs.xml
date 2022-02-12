@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogClock">
+        <attr name="borderColor" format="reference"/>
+        <attr name="clockBackgroundColor" format="reference"/>
+        <attr name="hourColor" format="reference"/>
+        <attr name="minuteColor" format="reference"/>
+        <attr name="secondColor" format="reference"/>
+        <attr name="showSecondPointer" format="boolean"/>
+        <attr name="showNumbers" format="boolean"/>
+        <attr name="numbersColor" format="reference"/>
+        <attr name="borderStrokeWidth" format="integer"/>
+        <attr name="hourStrokeWidth" format="integer"/>
+        <attr name="minuteStrokeWidth" format="integer"/>
+        <attr name="secondStrokeWidth" format="integer"/>
+    </declare-styleable>
+</resources>
