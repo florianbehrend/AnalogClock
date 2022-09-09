@@ -1,6 +1,6 @@
 # AnalogClock
 <p align="center">
- <img width="200px" src="https://github.com/florianbehrend/AnalogClock/blob/master/AnalogClock.PNG"
+ <img width="200px" src="https://github.com/florianbehrend/Analog-Clock/blob/master/AnalogClock.PNG"
     align="center"
     alt="Analog Clock"
     />
