@@ -11,7 +11,7 @@
 Add this to your app build.gradle:
 
 ```gradle
-implementation 'com.github.florianbehrend:AnalogClock:v0.1'
+implementation 'com.github.florianbehrend:AnalogClock:v0.2'
 ```
 ## Usage
 
